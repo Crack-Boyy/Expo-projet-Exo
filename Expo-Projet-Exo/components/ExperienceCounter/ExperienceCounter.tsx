@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
  alignItems: 'flex-start',
  },
  button: {
- backgroundColor: '#007AFF',
+ backgroundColor: '#e7eef5ff',
  padding: 15,
  borderRadius: 8,
  marginBottom: 20,
@@ -41,6 +41,6 @@ const styles = StyleSheet.create({
  },
  experienceText: {
    fontSize: 25,
-   color: '#ff0000ff',
+   color: '#367dc0ff',
  },
 });
